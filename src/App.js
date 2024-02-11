@@ -1,6 +1,6 @@
 // import logo from "./logo.svg";
 
-import "./App.css";
+// import "./App.css";
 import Container_Nav_Options from "./component/Navigation_Options/Container_Nav_Options";
 import PopularDesitnationTray from './component/PopularDesitnationTray';
 
