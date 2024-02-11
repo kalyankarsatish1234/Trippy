@@ -1,0 +1,54 @@
+.offer-container{
+
+    width: 80%;
+    margin: auto;
+}
+
+.offer1{
+    margin-top: 20%;
+}
+
+.image{
+   background-color: white;
+   height: 450px;
+   color: black;
+   border-radius: 1.5rem;
+}
+
+.image1{
+    border-top-left-radius: 1.5rem;
+    display: flex;
+    justify-content: center;
+    background-color: #667EEA; 
+  
+    background-color: rgb(102, 126, 234);
+}
+.image2{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Name{
+
+ 
+ border-radius: 1.5rem;
+ font-weight: 600;
+ color: black;
+ 
+   
+}
+.button{
+
+
+    background-color: #667EEA; 
+   
+    background-color: rgb(102, 126, 234); 
+    padding: 6px;
+    border-radius: 1.5rem;
+}
+
+.slick-slide > div{
+    margin: 0 10px;
+
+}
